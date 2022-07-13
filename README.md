@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh005&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh005" /> </p>
 
-- 🌱 I’m developer & trainer **Android & Flutter**
+- 🌱 I’m Flutter Developer **
 
-- 💬 Ask me about **Android & Flutter**
+- 💬 Ask me about **Flutter Development**
 
-- 📫 How to reach me **fAdeveloper@gmail.com**
+- 📫 How to reach me **voramitesh007@gmail.com**
 
 - ⚡ Fun fact **Let's Do Some Code**
 
